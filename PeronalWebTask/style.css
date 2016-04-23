@@ -1,0 +1,145 @@
+body{
+	background-color: #e5e5e5;
+	padding-top: 30px;
+	padding-left: 250px;
+	padding-right: 100px;
+	width: 600px;
+}
+#sertifikat{
+	margin-top:150px;
+	background-color: white;
+	width: 250px;
+	height:225px;
+	font-family:'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+#sertifikat2{
+	margin-top:20px;
+	background-color: white;
+	width: 250px;
+	height:225px;
+	font-family:'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+#sertifikat h4,#sertifikat2 h4{
+	text-align: center;
+	height: 5px;
+	margin-bottom: 20px;
+	margin-top: -3px;
+}
+#profil{
+	font-family:'Open Sans', Helvetica, Arial, sans-serif;
+	background-color:white; 
+	width: 250px;
+	height: 325px;
+	border-color: black;
+	text-align: center;
+}
+#profil>h3{
+	margin-top: -2px;
+	margin-bottom: -35px;
+}
+#profil>i>h5{
+	color: grey;
+}
+
+#konten-a>h6,#konten-b>h6{
+	text-align: center;
+	font-style: italic;
+	font-family:'Open Sans', Helvetica, Arial, sans-serif;
+	margin-bottom: -30px;
+	margin-top: 30px;
+	color: #776b59;
+	font-size:9px;
+}
+
+#title{
+	text-align:center;
+	background-color: white;
+	color: #333; 
+	height: 10px;
+	padding-top: 35px;
+	margin-top: -10px;
+	font-family:'Open Sans',sans-serif;
+	font-style: normal;
+	font-weight: 300;
+}
+
+#artikel{
+	text-align: left;
+	padding-left: 24px;
+	padding-right: 24px;
+	padding-top: 30px;
+	color: #776b59;
+	font-family:'Open Sans', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+
+}
+
+#konten-b,#konten-a{
+	background-color: white;
+	width: 100%;
+	margin-left:260px;
+	font-size: 20px;
+	font-style: normal;
+	padding-bottom: 24px;
+	margin-top: -20px;
+}
+
+.nav{
+	position: relative;
+	color: #333; 
+	list-style-type:none;
+	background-color:white;
+	width: 250px;
+	height: relative;
+	padding-left:0;
+	margin-top: 10px;
+	float: left;
+	font-family:'Open Sans', Helvetica, Arial, sans-serif;
+}
+.nav ul{
+	list-style: none;
+	margin-left: -40px;
+}
+
+
+.nav li a{
+	text-decoration: none;
+	display:block;
+	color:#000;
+	padding: 8px 7px 8px 4px;
+	
+	
+}
+
+.nav li a:hover{
+	background-color: #555;
+	color: white;
+	display: block;
+}
+
+#leftkonten{
+	float: left;
+}
+
+#pribadi th{
+	width: 5%;
+}
+
+#riwayat-pendidikan-SD th, #riwayat-pendidikan-SMP th,
+#riwayat-pendidikan-SMA th,#riwayat-pekerjaan th,
+#riwayat-pelatihan th,#keterampilan th{
+	width: 5%;
+}
+
+.abc{
+	text-align: right;
+	width: 10px;
+}
+
+
+.abcd{
+	text-align: center;
+}
